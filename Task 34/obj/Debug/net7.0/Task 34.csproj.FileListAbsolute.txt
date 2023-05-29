@@ -1,0 +1,15 @@
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар5\Task 34\bin\Debug\net7.0\Task 34.exe
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар5\Task 34\bin\Debug\net7.0\Task 34.deps.json
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар5\Task 34\bin\Debug\net7.0\Task 34.runtimeconfig.json
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар5\Task 34\bin\Debug\net7.0\Task 34.dll
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар5\Task 34\bin\Debug\net7.0\Task 34.pdb
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар5\Task 34\obj\Debug\net7.0\Task 34.csproj.AssemblyReference.cache
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар5\Task 34\obj\Debug\net7.0\Task 34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар5\Task 34\obj\Debug\net7.0\Task 34.AssemblyInfoInputs.cache
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар5\Task 34\obj\Debug\net7.0\Task 34.AssemblyInfo.cs
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар5\Task 34\obj\Debug\net7.0\Task 34.csproj.CoreCompileInputs.cache
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар5\Task 34\obj\Debug\net7.0\Task 34.dll
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар5\Task 34\obj\Debug\net7.0\refint\Task 34.dll
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар5\Task 34\obj\Debug\net7.0\Task 34.pdb
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар5\Task 34\obj\Debug\net7.0\Task 34.genruntimeconfig.cache
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар5\Task 34\obj\Debug\net7.0\ref\Task 34.dll
